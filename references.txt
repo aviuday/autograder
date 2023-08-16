@@ -1,0 +1,10 @@
+References - 
+
+1. Lecture videos and slides uploaded on piazza 
+2. https://linux.die.net/man/1/ln
+3. https://devconnected.com/how-to-rename-a-directory-on-linux/
+4. https://www.geeksforgeeks.org/sort-command-linuxunix-examples/
+5. https://www.mkssoftware.com/docs/man1/cmp.1.asp
+6. https://stackoverflow.com/questions/23162299/how-to-get-the-last-part-of-dirname-in-bash
+7. https://www.geeksforgeeks.org/compiling-with-g-plus-plus/
+8. https://www.geeksforgeeks.org/egrep-command-in-linux-with-examples/
